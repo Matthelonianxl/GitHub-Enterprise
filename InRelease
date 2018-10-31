@@ -1,0 +1,57 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Apache Cassandra Packages
+Label: Apache Cassandra Packages
+Codename: 21x
+Date: Fri, 16 Feb 2018 17:21:15 UTC
+Architectures: i386 amd64
+Components: main
+Description: Apache Cassandra APT Repository
+MD5Sum:
+ 2b889514f5872369b948ce91f37443ef 1479 main/binary-i386/Packages
+ 3620c004fa9ea65a4174c144bb6a1a89 684 main/binary-i386/Packages.gz
+ 5a11be413d0d0957e421046e689a2a37 147 main/binary-i386/Release
+ 2b889514f5872369b948ce91f37443ef 1479 main/binary-amd64/Packages
+ 3620c004fa9ea65a4174c144bb6a1a89 684 main/binary-amd64/Packages.gz
+ b9fd60418097579ba5c9bea9691e871b 148 main/binary-amd64/Release
+ e07e959292e9cec233d34010f81fa171 1441 main/source/Sources
+ 147ade6faf1feef8b19eeb50f8cee44b 754 main/source/Sources.gz
+ 6591d941521706dde51f43793dccda6d 149 main/source/Release
+SHA1:
+ de7b85635cef848a7d0ba72315ff1bc9f88d27cf 1479 main/binary-i386/Packages
+ f8c1c5e6726b734bf38b4edd68fae325d0e3cb72 684 main/binary-i386/Packages.gz
+ 6cda7279b207ad1248302413d8bba216d0d1d7ae 147 main/binary-i386/Release
+ de7b85635cef848a7d0ba72315ff1bc9f88d27cf 1479 main/binary-amd64/Packages
+ f8c1c5e6726b734bf38b4edd68fae325d0e3cb72 684 main/binary-amd64/Packages.gz
+ e49b7700fd1544db344527b3c941dd41805b699e 148 main/binary-amd64/Release
+ 4258d4c7dde96d5ed9899c4c21e78cd3fdc54720 1441 main/source/Sources
+ 2f2dd469e7c9a3ee2742d1b26084b37fc7dba224 754 main/source/Sources.gz
+ a9835b8d5fb9c1911926a165525a7ef7c28112f1 149 main/source/Release
+SHA256:
+ 96b1889f3700a606adc02a018fa447430d42927935f432906776366737866bdf 1479 main/binary-i386/Packages
+ b649a5050249eb48bee1695aab9eef0cfd2df70ddf96c1a0ac5fb4d07d3f7b7c 684 main/binary-i386/Packages.gz
+ 3fe9f61f16278c2d8daf858df37dcc16ce3e41bb0b6dc836e9b500623cf5763f 147 main/binary-i386/Release
+ 96b1889f3700a606adc02a018fa447430d42927935f432906776366737866bdf 1479 main/binary-amd64/Packages
+ b649a5050249eb48bee1695aab9eef0cfd2df70ddf96c1a0ac5fb4d07d3f7b7c 684 main/binary-amd64/Packages.gz
+ b06d70a257359e63ed69f69660bbbf1959437025c622ae02eaff112b966a9699 148 main/binary-amd64/Release
+ 2eba76ca9c3707da6b1aff7f96f4e1f655f9a59b9447f0eb66fe760c419c2a32 1441 main/source/Sources
+ 48e4c69c8e9ed8af7b7dc4e1340ec2c61998a3419fe9520c118aa3aa58023ac9 754 main/source/Sources.gz
+ 07d08faa347d925afe40cecd1e18306528c7d9acee38682845ce62fc2cea3507 149 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJahxMSAAoJEKJ4t4H+Syvans0P/RgDNjCYlUm2JbHLpnQlwlbq
+GPncc2uiC2m4K3xXD61WRBIVcOiOMBdNkUgT5JysN1Ttppe7thJf+hfvK6QTGzty
+0+H/h0FBAxQbab1VdH4aGL1vshAHDaGH7HKXQfZB+PC/lJfrG81M5yeknO45XjS/
+Uch1Co4fhgcaJpVl1/mV2inrRwIKhR2b14p/wk7Nl+VAWsB09PyIuO5HXJRM0ILi
+/bQZ64vx1MrW7xhgsxoBI8Vw6W+64fWLZDY/n38McZeTn8ap1xf+UFEz5a6GSEra
+awKLjh6VBsgfijfWmttsR66RHHNQMcPPE0LNZSOCfTE9iFFwcemSaAZeHTeCSgQi
+AVfL4bxHD/CsHj+LH0pSZGNEAkE1nO/IkOisM+WxVyhUMRKB5VcORC22Qf8pBRMO
+pr62oTo1Omp+m/UhcfxPzTwN3GTb/VfS0UC5+Ie3xVazYnWZ7wAOSU5xFlgl8i+c
+EM2gPFSSHOLt9S8RavTSZhPn8nA0TMqLZhhxvz6fBOs4rAFQdWFTWtr0suvY8Jom
+MqsomuZLVuLjbW3vMNIMV6+rpYYjDRknPaAXlsd6MjyJwpdAGGPBTmTQRhrg25PS
+SKKArYyYKFvIpSWxMFAbb9vC4YNeUEoUSJE+RtXBIqsTYyK/QAl4VD8Wk2mXBqey
+kCykfElw5ZGsBj4VA3V6
+=78BI
+-----END PGP SIGNATURE-----
